@@ -171,7 +171,6 @@ xsec_lumi[sample] = [0.151*Lumi]
 inDir['MC'][sample] = base+'Sq_Gl_4t_Gl1300_Sq1300_LSP100/Loop/'
 
 
-
 '''
 sample = 'T1tttt_800_450'
 dirsHT[sample] = ['/']
